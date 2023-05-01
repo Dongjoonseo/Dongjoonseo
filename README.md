@@ -16,6 +16,6 @@
 |기간|프로젝트명|프로그램|레포지토리|
 |------|---|---|---|
 |2022|테스트2|테스트3|테스트4|
-|2022|Instgram 클론코딩|Ract|테스트4|
+|2022|Instgram 클론코딩|React|https://github.com/mock-rc10/instagram_web_jun|
   
 </div>
