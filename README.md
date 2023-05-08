@@ -15,7 +15,7 @@
   
 |기간|프로젝트명|프로그램|레포지토리|
 |------|---|---|---|
-|2022|Accty|Android Studio|테스트4|
+|2022|Accty|Android Studio|https://github.com/WOOJINCHO98/Accty|
 |2022.10.29 ~ 2022.11.10|Instgram 클론코딩|React|https://github.com/mock-rc10/instagram_web_jun|
   
 </div>
