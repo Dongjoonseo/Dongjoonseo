@@ -15,7 +15,8 @@
   
 |기간|프로젝트명|프로그램|레포지토리|비고|
 |------|---|---|---|---|
-|2022|Accty|Android Studio|https://github.com/WOOJINCHO98/Accty|삼육대학교 교내 캡스톤디자인경진대회 우수상 수상|
-|2022.10.29 ~ 2022.11.10|Instgram 클론코딩|React|https://github.com/mock-rc10/instagram_web_jun|
+|2023.09.01 ~ 2023.12.14|BodyRecord|React|https://github.com/A1B1O3|
+|2022.09.03 ~ 2022.11.30|Accty|Android Studio|https://github.com/WOOJINCHO98/Accty|삼육대학교 교내 캡스톤디자인경진대회 우수상 수상|
+|2022.10.29 ~ 2022.11.10|Instagram 클론코딩|React|https://github.com/mock-rc10/instagram_web_jun|
   
 </div>
