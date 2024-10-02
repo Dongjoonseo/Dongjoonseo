@@ -17,7 +17,8 @@
   
 |기간|프로젝트명|기술스택|레포지토리|비고|
 |------|---|---|---|---|
-|2024.06.21 ~ 2023.07.23|ClubHub|SpringBoot|https://https://github.com/KDT-Club|
+|2024.06.21 ~ 2023.07.23|UniSports|SpringBoot|https://github.com/UniSports-KDT|
+|2024.06.21 ~ 2023.07.23|ClubHub|SpringBoot|https://github.com/KDT-Club|
 |2023.09.01 ~ 2023.12.14|BodyRecord|React|https://github.com/A1B1O3|
 |2022.09.03 ~ 2022.11.30|Accty|Android Studio|https://github.com/Dongjoonseo/Accty|삼육대학교 교내 캡스톤디자인경진대회 우수상 수상|
 |2022.10.29 ~ 2022.11.10|Instagram|React|https://github.com/mock-rc10/instagram_web_jun|
